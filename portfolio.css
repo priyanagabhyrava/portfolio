@@ -1,0 +1,76 @@
+[class*="col"] {
+    padding: 1rem;
+    background-color: #d6dee2;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+
+  }
+  .child{
+    background-color: #e40ba33d;
+  }
+  .image{
+    align-items: center;
+  }
+  h3{
+      text-align: center;
+      color: beige;
+  }
+  .container{
+    align-items: center;
+  }
+  .container1{
+    
+    text-align:center;
+    background-color: aliceblue;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle; 
+    
+  }
+  .container1:hover{
+    opacity: 0.3;
+    transform: scale(1.5);
+  }
+  .container2{
+    
+    text-align:center;
+    background-color: aliceblue;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle; 
+    
+  }
+  .container2:hover{
+    opacity: 0.3;
+    transform: scale(1.5);
+  }
+  .container3{
+    
+    text-align:center;
+    background-color: aliceblue;
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    vertical-align: middle; 
+    
+  }
+  .container3:hover{
+    opacity: 0.3;
+    transform: scale(1.5);
+  }
+  
+  
+body{
+  background-color: rgb(51, 49, 49);
+}
+.card{
+  width: 500px;
+  height: 500px;
+  align-items: center;
+}
